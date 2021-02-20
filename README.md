@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Nirusha1/Nirusha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there , I am Nirusha👋
 
 - 🔭 I’m currently working on manual functional and API testing
 - 🌱 I’m currently learning automation testing 
