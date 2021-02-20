@@ -7,5 +7,5 @@
 - 💬 Ask me about python, Machine learning , Natural Lanaguage Processings, Web development with nodejs
 - 📫 How to reach me: 
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: My dream is to go skydiving a day and I have acrophobia
+- ⚡ Fun fact: My dream is to go skydiving a day and I have acrophobia. DREAMS ARE DREAMS
 -
