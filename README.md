@@ -2,7 +2,7 @@
 
 - 💡 Product Manager | QA Anayst | Automation Engineer |  Machine Learning Enthusiast
 
-- 🎓 Pursuing a Master’s in Business Analytics (Graduating May 2025)
+- 🎓 Master’s in Business Analytics and Bachelor's in Computer Engineering
 - 🔎 Currently exploring data analytics, product management, and machine learning
 - 📊 Proficient in Tableau, Power BI, R, and Python for data visualization and insights
 - 🤖 Building machine learning models and applying statistical analysis
